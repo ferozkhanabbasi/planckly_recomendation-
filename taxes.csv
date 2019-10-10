@@ -1,0 +1,14 @@
+"1","1","gst","percentage","2.00",NULL,NULL
+"2","1","vat","percentage","13.00",NULL,NULL
+"3","2","vat","percentage","13.00",NULL,NULL
+"4","2","gst","percentage","2.00",NULL,NULL
+"5","57","vat","percentage","13.00",NULL,NULL
+"6","58","vat","percentage","13.00",NULL,NULL
+"7","59","vat","percentage","13.00",NULL,NULL
+"8","60","vat","percentage","13.00",NULL,NULL
+"9","61","vat","percentage","13.00",NULL,NULL
+"10","62","vat","percentage","13.00",NULL,NULL
+"11","63","vat","percentage","13.00",NULL,NULL
+"12","64","vat","percentage","13.00",NULL,NULL
+"13","65","vat","percentage","13.00",NULL,NULL
+"14","66","vat","percentage","13.00","2019-01-18 05:00:00","2019-01-25 05:00:00"
